@@ -1,0 +1,19 @@
+h1{
+    color: crimson;
+    font-family: "Khmer OS Muol Light", sans-serif;
+}
+p{
+    color: crimson;
+    font-family: "Khmer OS Muol Light", sans-serif;
+}
+#bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  object-fit: cover; /* Keeps aspect ratio while filling the screen */
+}
